@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Little Bot</title>
-    <link>https://raw.githubusercontent.com/alexsilvaai/spacebot-releases/main/appcast.xml</link>
+    <link>https://raw.githubusercontent.com/alexsilvaai/little-bot-releases/main/appcast.xml</link>
     <description>Updates for Little Bot</description>
     <language>pt-BR</language>
-    <!-- Items are appended by scripts/publish-release.sh when a signed Spacebot.dmg is published. -->
+    <!-- Items are appended by scripts/publish-release.sh when a signed Little-Bot.dmg is published. -->
   </channel>
 </rss>
