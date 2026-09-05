@@ -1,0 +1,17 @@
+# Never commit Spacebot source
+*.swift
+*.xcodeproj/
+*.xcworkspace/
+*.entitlements
+source/
+app/
+
+# Local build artifacts
+*.app/
+DerivedData/
+.DS_Store
+
+# Keep DMGs out of git; they belong on GitHub Releases
+*.dmg
+*.pkg
+*.zip
