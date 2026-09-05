@@ -1,35 +1,35 @@
 # Little Bot — releases
 
-Public distribution for **Little Bot** (Spacebot).
+Public distribution for **Little Bot**.
 
 This repository contains **only** signed installers and Sparkle update metadata.
 It never contains application source code.
 
 ## Download (always latest)
 
-[Spacebot.dmg](https://github.com/alexsilvaai/spacebot-releases/releases/latest/download/Spacebot.dmg)
+[Little-Bot.dmg](https://github.com/alexsilvaai/little-bot-releases/releases/latest/download/Little-Bot.dmg)
 
 Permanent URL:
 
 ```
-https://github.com/alexsilvaai/spacebot-releases/releases/latest/download/Spacebot.dmg
+https://github.com/alexsilvaai/little-bot-releases/releases/latest/download/Little-Bot.dmg
 ```
 
 ## Sparkle appcast
 
 ```
-https://raw.githubusercontent.com/alexsilvaai/spacebot-releases/main/appcast.xml
+https://raw.githubusercontent.com/alexsilvaai/little-bot-releases/main/appcast.xml
 ```
 
 ## Releases
 
 | Tag | Asset |
 |---|---|
-| `v1.0.0`, `v1.0.1`, … | `Spacebot.dmg` |
+| `v1.0.0`, `v1.0.1`, … | `Little-Bot.dmg` |
 
 Each GitHub Release should attach:
 
-- `Spacebot.dmg` — compiled, Apple-signed, notarized app
+- `Little-Bot.dmg` — compiled, Apple-signed, notarized app
 - `appcast.xml` (optional copy of the feed)
 
 Do not upload source archives, Xcode projects, or Swift files.
